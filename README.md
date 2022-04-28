@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Troy Webber</h1>
 <h3 align="center">A Full Stack JavaScript Developer from Canterbury</h3>
 
-- 🔭 I’m currently working on [Spotify Helper](https://spotify-helper-frontend.netlify.app/)
+- 🔭 I’m currently working on [Spotify Helper](https://github.com/troywebber/spotify-helper-frontend)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, React, SQL**
 
